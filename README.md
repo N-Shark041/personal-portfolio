@@ -13,6 +13,6 @@ Feel free to explore the code, suggest improvements, or fork the repository to c
     <title>Redirecting...</title>
 </head>
 <body>
-    <p>If you are not redirected, https://your-wix-site-link.com.</p>
+    <p>If you are not redirected, [https://your-wix-site-link.com.](https://25cs041.wixsite.com/25cs041_portfolio)</p>
 </body>
 </html>
