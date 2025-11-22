@@ -9,7 +9,7 @@ Feel free to explore the code, suggest improvements, or fork the repository to c
 <!DOCTYPE html>
 <html>
 <head>
-    <meta http-equiv="refresh" content="0; url=[https://your-wix-site-link.com](https://25cs041.wixsite.com/25cs041_portfolio)" />
+    <meta http-equiv="refresh" content="0; url=[https://25cs041.wixsite.com/25cs041_portfolio]" />
     <title>Redirecting...</title>
 </head>
 <body>
